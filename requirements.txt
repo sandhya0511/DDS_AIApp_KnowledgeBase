@@ -3,3 +3,6 @@ python-dotenv
 openai
 playwright
 selenium
+fastapi
+uvicorn[standard]
+aiofiles
